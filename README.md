@@ -1,1 +1,1 @@
-# Anomaly_Detection_for_Quality_Control
+# Anomaly Detection for Quality Control
