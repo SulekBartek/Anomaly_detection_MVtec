@@ -8,6 +8,8 @@
 [![python](https://img.shields.io/badge/python-3.7%2B-green)]()
 [![pytorch](https://img.shields.io/badge/pytorch-1.8.1%2B-orange)]()
 
+<div align="left">
+
 ## Introduction
 This notebook presents anomaly detection model written in PyTorch library, which can be used e.g. on industrial visual quality inspections.
 
