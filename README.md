@@ -7,7 +7,7 @@
 
 [![python](https://img.shields.io/badge/python-3.9.13%2B-green)]()
 [![pytorch](https://img.shields.io/badge/pytorch-1.13.1%2B-orange)]()
-[![torchvision](https://img.shields.io/badge/pytorch-0.14.1%2B-red)]()
+[![torchvision](https://img.shields.io/badge/torchvision-0.14.1%2B-red)]()
 
 ----------
 
