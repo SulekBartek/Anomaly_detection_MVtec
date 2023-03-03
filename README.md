@@ -49,9 +49,15 @@ Main libraries used in this project:
 For the rest of the dependencies take a look at requirements.txt.
 
 ## Results
-<div align="center">
-<img src='imgs/example_2.png' width=600 height=250>
+<div align="center"> 
+
+### CAPSULE
 <img src='imgs/example_1.png' width=600 height=250>
+
+### GRID
+<img src='imgs/example_2.png' width=600 height=250>
+
+### BOTTLE
 <img src='imgs/example_3.png' width=600 height=250>
 <div align="left">
 
