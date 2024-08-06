@@ -43,9 +43,9 @@ Required directory stucture:
 
 ##  Dependencies
 Main libraries used in this project:
-* `torch == 1.13.1`
+* `torch >= 2.0.0`
 * `torchvision == 0.14.1`
-* `numpy == 1.21.5`
+* `numpy == 1.22`
 
 For the rest of the dependencies take a look at requirements.txt.
 

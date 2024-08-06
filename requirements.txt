@@ -1,9 +1,9 @@
 matplotlib==3.5.2
-numpy==1.21.5
+numpy>=1.22
 pandas==1.4.4
 pathlib==1.0.1
-PIL.Image==9.2.0
+Pillow==9.2.0
 pytorch_msssim==0.2.1
-torch==1.13.1
+torch>=2.2.0
 torchinfo==1.7.1
 torchvision==0.14.1
