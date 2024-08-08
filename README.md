@@ -15,8 +15,8 @@
 
 ## Introduction
 
-This notebook project aims to provide an easy-to-use implementation of a simple autoencoder model for detecting anomalies on defected parts or texture images, included in the MVTec industrial dataset. Presented method is unsupervised, the model is trained on defect-free images of one of the MVTec datasets and can detect various kinds of defects in the test images. As a loss function and also an evaluation metric, structural similarity index measure (SSIM) method have been used ([SSIM Pytorch implementation](https://github.com/VainF/pytorch-msssim)).  
-The project was implemented in Jupyter Notebook to provide a simple environment for further experimentation with neural network architecture, hyperparameters and input data.
+This notebook project aims to provide an easy-to-use implementation of a simple autoencoder model for detecting anomalies on defected parts or texture images, included in the MVTec industrial dataset. Presented method is unsupervised, the model is trained on defect-free images of one of the MVTec datasets and can detect various kinds of defects in the test images. As a loss function and also an evaluation metric, structural similarity index measure (SSIM) method have been used ([SSIM Pytorch implementation](https://github.com/VainF/pytorch-msssim)).
+
 
 ## Data
 MVTec dataset consists of 17 subsets including jointly 5354 images of different objects and textures. Used datasets are available on the MVTec company website [here](https://www.mvtec.com/company/research/datasets/mvtec-ad).
